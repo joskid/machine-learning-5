@@ -3,7 +3,7 @@ title: "Final Exam"
 author: "St. Clair"
 date: "Math 315 (Data Science) - due by 5pm Monday, 11/21/16"
 output:
-  html_document:
+  rmarkdown::github_document:
     fig_height: 4
     fig_width: 8
 ---
